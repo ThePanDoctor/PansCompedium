@@ -1,1 +1,3 @@
-Pan's Compedium is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+Pan's Compedium is a compilation of all my mods. Uninstall any of them if you have this one installed
+
+Currently adds everything from the mods "Better Pre-Boss Classes", "The Wall Busters" and "Very Fast Mining". Also makes every axe OP, instead of just copper and iron.

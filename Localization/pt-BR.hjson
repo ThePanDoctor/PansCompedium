@@ -1,0 +1,19 @@
+Mods:{
+    PansCompedium:{
+        ItemName:{
+            WallBusterMk1:"O Derruba-Paredes Ed.I"
+            WallBusterMk2:"O Derruba-Paredes Ed.II"
+            FlinxFurGreaves:"Botas de Pelo de Flinx"
+            FlinxFurHeadpiece:"Capacete de Pelo de Flinx"
+            MagicalGreaves:"Botas Mágicas"
+        }
+
+        ItemTooltip:{
+            WallBusterMk1:"Destrói paredes na velocidade do som."
+            WallBusterMk2:"Destrói paredes (e altares do mal) na velocidade da luz."
+            FlinxFurGreaves:"Aumenta velocidade de movimento e dano de invocação em 10%"
+            FlinxFurHeadpiece:"Aumenta velocidade de ataque dos chicotes em 5%"
+            MagicalGreaves:"Aumenta mana máxima em 20"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+Mods:{
+    PansCompedium:{
+        ItemName:{
+            WallBusterMk1:"The Wall Buster Mk.I"
+            WallBusterMk2:"The Wall Buster Mk.II"
+            FlinxFurGreaves:"Flinx Fur Greaves"
+            FlinxFurHeadpiece:"Flinx Fur Headpiece"
+            MagicalGreaves:"Magical Greaves"
+        }
+
+        ItemTooltip:{
+            WallBusterMk1:"Destroys walls at the speed of sound."
+            WallBusterMk2:"Destroys walls (and evil altars) at the speed of light."
+            FlinxFurGreaves:"Increases movement speed and summon damage by 10%"
+            FlinxFurHeadpiece:"Increases whip speed by 5%"
+            MagicalGreaves:"Increases max mana by 20"
+        }
+    }
+}
